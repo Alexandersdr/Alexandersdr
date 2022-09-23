@@ -1,10 +1,12 @@
 <div align="right">
-  <img height="200" src="https://raw.githubusercontent.com/gist/Alexandersdr/e838e69628212054a63752e21039e108/raw/64afa849fd0a5451f92831904df16b84219d16f3/githubcrard.svg"  />
+  <h1 align="left">NLW</h1>
+  <img height="400" src="https://raw.githubusercontent.com/gist/Alexandersdr/e838e69628212054a63752e21039e108/raw/64afa849fd0a5451f92831904df16b84219d16f3/githubcrard.svg"  />
 </div>
+Estou estudano .NET
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Alexandersdr" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Alexandersdr" height="150" alt="languages graph"  />
 </div>
@@ -20,9 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
 </div>
 
+
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/alexander-correa-95a684240/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
