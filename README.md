@@ -5,7 +5,9 @@
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=Alexandersdr&label=Profile%20views&color=0e75b6&style=flat" width 15px alt="" /> </p>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alexandersdr" alt="" /></a > </p>
+<p align="left" height= "25px">
+<a href="https://github.com/ryo-ma/github-profile-trophy"> <br>
+<img src="https://github-profile-trophy.vercel.app/?username=Alexandersdr" alt="" /></a > </p>
 
  <p align="left">🌱 Atualmente estou aprendendo **Balta.io curso(.NET-6)**</p>
 
