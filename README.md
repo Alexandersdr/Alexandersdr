@@ -1,6 +1,6 @@
-<div align="right">
-    <h1 align="left">Olá 👋, sou Alexander</h1>
-<h3 align="left">Um desenvolvedor Front-end & Back-end apaixonado por ser DEV</h3>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Alexandersdr/e838e69628212054a63752e21039e108/raw/64afa849fd0a5451f92831904df16b84219d16f3/githubcrard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Alexander Correa</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alexandersdr&color=yellow" alt="Profile views" /> </p>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=Alexandersdr&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
@@ -11,13 +11,6 @@
 <h3 align="left">Conecte-se comigo:</h3>
 </div>
 
-
-<div align="top">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Alexandersdr" height="150" alt="stats graph"  />
-  </div>
-  <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Alexandersdr" height="170" alt="languages graph"  />
-</div>
 
 ###
 
