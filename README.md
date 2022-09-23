@@ -3,7 +3,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Alexander Correa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alexandersdr&color=yellow" alt="Profile views" /> </p>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=Alexandersdr&label=Profile%20views&color=0e75b6&style=flat" width 30px alt="" /> </p>
+<p align="left"> <img src=" https://komarev.com/ghpvc/?username=Alexandersdr&label=Profile%20views&color=0e75b6&style=flat" width 15px alt="" /> </p>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alexandersdr" alt="" /></a > </p>
 
