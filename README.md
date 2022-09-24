@@ -1,5 +1,5 @@
 <div>
-<img align="right" height="400vhem" src="https://raw.githubusercontent.com/gist/Alexandersdr/e838e69628212054a63752e21039e108/raw/64afa849fd0a5451f92831904df16b84219d16f3/githubcrard.svg"/>
+<img align="right" height="270vhem" src="https://raw.githubusercontent.com/gist/Alexandersdr/e838e69628212054a63752e21039e108/raw/64afa849fd0a5451f92831904df16b84219d16f3/githubcrard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Alexander Correa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alexandersdr&color=yellow" alt="Profile views" /> </p>
 
@@ -9,7 +9,9 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"> <br>
 <img src="https://github-profile-trophy.vercel.app/?username=Alexandersdr" alt="" /></a > </p>
 
- <p align="left">🌱 Atualmente estou aprendendo **Balta.io curso(.NET-6)**</p>
+ <p align="left">🌱 Atualmente estou aprendendo **Balta.io curso(.NET-6) 70% concluído**</p>
+ <p align="left">🌱 Atualmente estou aprendendo **HTML5 CSS3 são 5 modúlos 80% concluído **</p>
+  <p align="left">🌱 Atualmente estou aprendendo **JavaScript 35% **</p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 </div>
