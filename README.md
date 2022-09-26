@@ -56,7 +56,7 @@
 
 <ul>
  <li>
-<a href=" https://alexandersdr.github.io/projeto-android/" target="_blank">Meu 3 projecto Site Android!</a> 
+<a href="https://alexandersdr.github.io/projeto-android/" target="_blank">Meu 3 projecto Site Android!</a> 
  </li>
 </ul>
 
