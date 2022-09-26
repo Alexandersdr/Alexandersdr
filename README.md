@@ -40,7 +40,7 @@
   </a>
 </div>
 
-<a href="https://discord.com/" target="_blank">Meu projecto Site!</a> 
+<a href="https://alexandersdr.github.io/projeto-cordel/" target="_blank">Meu projecto Site!</a> 
 
 ###
 
