@@ -40,6 +40,8 @@
   </a>
 </div>
 
+<a href="https://discord.com/" target="_blank">Meu projecto Site!</a> 
+
 ###
 
 <div align="center">
