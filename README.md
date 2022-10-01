@@ -13,7 +13,8 @@
  <p align="left">🌱 Atualmente estou aprendendo **HTML5 CSS3 são 5 modúlos 80% concluído **</p>
   <p align="left">🌱 Atualmente estou aprendendo **JavaScript 35% **</p>
   <p align="left">🌱 Atualmente estou aprendendo 
-  **Java 1% Obs. Incio dia 26/09/2022 e o termino 29/09/2022, Evento patrocinado pela ifood Escola Dio, de project Java carrinho de Compra**</p>
+  **Java 100% Obs. Incio dia 26/09/2022 e o termino 29/09/2022, Evento patrocinado pela ifood Escola Dio, de project Java carrinho de Compra**</p>
+  <p><a href="https://images.emojiterra.com/openmoji/v13.1/512px/1f333.png" Experiencia produtiva connhecimento em API Java <p> 
 
 <h3 align="left">Conecte-se comigo:</h3>
 </div>
