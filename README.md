@@ -9,7 +9,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"> <br>
 <img src="https://github-profile-trophy.vercel.app/?username=Alexandersdr" alt="" /></a > </p>
 
- <p align="left">🌱 Atualmente estou aprendendo **Balta.io curso(.NET-6) 79% concluído**</p>
+ <p align="left">🌱 Atualmente estou aprendendo **Balta.io curso(.NET-6) 86% concluído**</p>
  <p align="left">🌱 Atualmente estou aprendendo **HTML5 CSS3 são 5 modúlos 80% concluído **</p>
   <p align="left">🌱 Atualmente estou aprendendo **JavaScript 35% **</p>
   <p align="left">🌱 Atualmente estou aprendendo 
