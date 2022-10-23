@@ -9,6 +9,10 @@
 <p align="left" height= "25px">
 <a href="https://github.com/ryo-ma/github-profile-trophy"> <br>
 <img src="https://github-profile-trophy.vercel.app/?username=Alexandersdr" alt="" /></a > </p>
+ 
+ # RocketSeat 	&#x1F680;
+ # Balta 	&#x1F680;
+ # DIO 	&#x1F680;
 
  <p align="left">🌱 Atualmente estou aprendendo **Balta.io curso(.NET-6) 86% concluído**</p>
  <p align="left">🌱 Atualmente estou aprendendo **HTML5 CSS3 são 5 modúlos 80% concluído **</p>
