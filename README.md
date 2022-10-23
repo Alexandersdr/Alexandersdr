@@ -1,6 +1,6 @@
 <div>
- <div align=center><a href='https://www.counter12.com'><img src='https://www.counter12.com/img-Cy2155A9aZz7zYZ5-1.gif' border='0' alt='contador de acessos'></a>/
- <script type='text/javascript' src='https://www.counter12.com/ad.js?id=Cy2155A9aZz7zYZ5'></script></div>
+ <div align=center><a href='https://www.counter12.com'><img src='https://www.counter12.com/img-Cy2155A9aZz7zYZ5-1.gif' border='0' alt='contador de acessos'></a>
+ </div>
 <img align="right" height="270vhem" src="https://raw.githubusercontent.com/gist/Alexandersdr/e838e69628212054a63752e21039e108/raw/64afa849fd0a5451f92831904df16b84219d16f3/githubcrard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Alexander Correa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alexandersdr&color=yellow" alt="Profile views" /> </p>
