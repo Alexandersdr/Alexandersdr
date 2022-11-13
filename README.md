@@ -13,8 +13,12 @@
  # RocketSeat 	&#x1F680;
  # Balta 	&#x1F680;
  # DIO 	&#x1F680;
-
+## My relação de cursos a baixo &#x1F680;
  <p align="left">🌱 Atualmente estou aprendendo **Balta.io curso(.NET-6)&#x1F680; &#x1F680; &#x1F680; 100% &#x1F680; &#x1F680; &#x1F680; concluído**</p>
+ Fundamentos Dotnet 6 <br>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" width="52" alt="dot-net logo"  />
+ <br>
+ <br>
  <p align="left">🌱 Atualmente estou aprendendo **HTML5 CSS3 são 5 modúlos 80% concluído **</p>
   <p align="left">🌱 Atualmente estou aprendendo **JavaScript 35% **participação de envento Explorer Lab RocketSeat 17/10/2022 a 19/10/2022** **</p>
   <p align="left">🌱 Atualmente estou aprendendo 
