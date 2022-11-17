@@ -30,10 +30,13 @@
 </div>
 
 ###
+<br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Alexandersdr/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Alexandersdr/count.svg?"/>
 </div>
+
+<br>
 
 
 ###
