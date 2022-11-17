@@ -29,6 +29,12 @@
 <h3 align="left">Conecte-se comigo:</h3>
 </div>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Alexandersdr/count.svg?"  />
+</div>
+
 
 ###
 
@@ -73,9 +79,5 @@
  </li>
 </ul>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Alexandersdr/count.svg?"  />
-</div>
 
